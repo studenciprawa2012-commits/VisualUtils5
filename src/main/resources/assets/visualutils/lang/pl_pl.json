@@ -1,0 +1,22 @@
+{
+  "key.visualutils.menu": "Otwórz menu NullClient",
+  "key.category.visualutils.main": "NullClient",
+  "key.visualutils.toggle_tracers": "Przełącz: Tracery",
+  "key.visualutils.toggle_esp": "Przełącz: ESP",
+  "key.visualutils.toggle_nametags": "Przełącz: Nametagi+",
+  "key.visualutils.toggle_setinfo": "Przełącz: Set gracza",
+  "key.visualutils.toggle_mobs": "Przełącz: Pokazuj moby",
+  "key.visualutils.toggle_itemesp": "Przełącz: Item ESP",
+  "key.visualutils.toggle_fullbright": "Przełącz: Fullbright",
+  "key.visualutils.toggle_zoom": "Przełącz: Zoom",
+  "key.visualutils.toggle_lowhp": "Przełącz: Alarm HP",
+  "key.visualutils.toggle_radar": "Przełącz: Radar",
+  "key.visualutils.toggle_compass": "Przełącz: Kompas",
+  "key.visualutils.toggle_info": "Przełącz: Info",
+  "key.visualutils.toggle_stats": "Przełącz: FPS i ping",
+  "key.visualutils.toggle_cps": "Przełącz: CPS",
+  "key.visualutils.toggle_keystrokes": "Przełącz: Klawisze na ekranie",
+  "key.visualutils.toggle_armor": "Przełącz: Pancerz",
+  "key.visualutils.toggle_potions": "Przełącz: Efekty",
+  "key.visualutils.toggle_clock": "Przełącz: Zegar"
+}
